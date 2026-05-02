@@ -1,0 +1,14 @@
+# Discord Bot
+discord.py==2.7.1
+
+# YouTube audio streaming
+yt-dlp==2026.3.17
+
+# YouTube transcript/lyrics
+youtube-transcript-api==1.2.4
+
+# For nest_asyncio (Raspberry Pi環境でのイベントループ対応)
+nest-asyncio==1.6.0
+
+# FFmpeg（Pythonライブラリではなくシステムパッケージ）
+# sudo apt install ffmpeg
