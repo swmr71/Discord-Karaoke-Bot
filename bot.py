@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-import asyncio
+# import asyncio
 import time
 import re
 import yt_dlp
@@ -10,7 +10,7 @@ from collections import deque
 from dataclasses import dataclass, field
 from typing import Optional
 
-nest_asyncio.apply()
+# nest_asyncio.apply()
 
 # ============================================
 # 設定・オプション
