@@ -1,11 +1,11 @@
 import discord
 from discord.ext import commands
-# import asyncio
+import asyncio
 import time
 import re
 import yt_dlp
 from youtube_transcript_api import _api
-import nest_asyncio
+# import nest_asyncio
 from collections import deque
 from dataclasses import dataclass, field
 from typing import Optional
